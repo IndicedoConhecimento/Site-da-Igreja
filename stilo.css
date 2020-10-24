@@ -1,0 +1,35 @@
+header {
+    background-color: #ddd;
+    margin-top: 50px;
+    width: 1200px;
+    padding: 70px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-size: 30px;
+}
+
+.s1 {
+    text-align: initial;
+    padding: 70px;
+}
+
+.s2 {
+    text-align: center;
+    padding: 70px;
+}
+
+.s3 {
+    text-align: end;
+    padding: 70px;
+}
+
+.fotom {
+    padding: 50px;
+}
+
+.s {
+    color: blue;
+}
