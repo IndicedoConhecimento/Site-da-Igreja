@@ -5,7 +5,7 @@
 . Ainda está em faze de desenvolvimento
 
 # Ajuda
-. Mandem idéas
+. Mandem ideias
 
 # Que tipos de arquivo tem
 
